@@ -29,16 +29,18 @@ class ReverzeX:
 
     def start(self):
         green = '\033[92m'
+        red = '\033[91m'
+        blue = '\033[94m'
         reset = '\033[0m'
         
         print_banner()
-        print("ReverzeX - Malware Reverse Engineering Tool")
+        print(f"{red}ReverzeX - Malware Reverse Engineering Tool{reset}")
         print_help()
 
         sys.stdout.write(green)
 
         while True:
-            self.file_path = input("Enter file path: ").strip()
+            self.file_path = input(f"{blue}Enter file path: {reset}").strip()
             if self.open_file():
                 break
             else:
@@ -46,7 +48,7 @@ class ReverzeX:
         
         while True:
             try:
-                command = input("ReverzeX> ").strip().split()
+                command = input(f"{blue}ReverzeX> {reset}").strip().split()
                 if not command:
                     continue
                 cmd = command[0]
@@ -456,3 +458,4 @@ class ReverzeX:
         except Exception as e:
             print(f"An error occurred while generating PDF report: {str(e)}")
             logging.error(f"An error occurred while generating PDF report: {str(e)}")
+
