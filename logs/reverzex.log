@@ -713,3 +713,159 @@ nth paddr      vaddr      len size section type    string
 2024-08-14 13:51:01,696 - ERROR - Unable to retrieve active summary from Threat Intelligence Service.
 2024-08-14 13:52:40,064 - ERROR - An error occurred: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/files/5cebd7a1c4ef24cb78dad778694e19937e1b53f1ad405640fecd0eae6bc67599 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7abbd2ced0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
 2024-08-14 13:52:40,064 - ERROR - Unable to retrieve history from Threat Intelligence Service.
+2024-08-14 14:33:39,723 - INFO - Opened file: hello.exe
+2024-08-14 14:34:53,053 - INFO - Opened file: hello.exe
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013eb: dec eax
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013ec: cld
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013ed: das
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013ee: aaa
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013ef: stc
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f0: aas
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f1: dec eax
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f2: cmc
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f3: lahf
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f4: inc ebx
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f5: stc
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f6: aas
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f7: aas
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f8: lahf
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013f9: inc ecx
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013fa: std
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013fb: cdq
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013fc: xchg eax, ecx
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013fd: dec ebx
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013fe: inc eax
+2024-08-14 14:34:54,240 - INFO - Disassembled instruction at 0x004013ff: inc ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401400: cwde
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401401: cwde
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401402: xchg eax, ecx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401403: dec ecx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401404: wait
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401405: wait
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401406: dec eax
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401407: nop
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401408: stc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401409: xchg eax, ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040140a: aas
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040140b: clc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040140c: dec eax
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040140d: xchg eax, ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040140e: aaa
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040140f: dec ecx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401410: cdq
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401411: cld
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401412: wait
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401413: dec ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401414: daa
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401415: aas
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401416: daa
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401417: salc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401418: cwde
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401419: cmc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040141a: lahf
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040141b: cdq
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040141c: cld
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040141d: std
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040141e: dec ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040141f: xchg eax, ecx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401420: xchg eax, ecx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401421: cmc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401422: cmc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401423: salc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401424: std
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401425: inc ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401426: lahf
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401427: cmc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401428: dec ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401429: aaa
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040142a: dec eax
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040142b: cmc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040142c: xchg eax, ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040142d: xchg eax, ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040142e: xchg eax, edx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040142f: aaa
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401430: lahf
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401431: dec ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401432: clc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401433: inc edx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401434: wait
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401435: lahf
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401436: nop
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401437: das
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401438: inc ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401439: inc ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040143a: wait
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040143b: inc edx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040143c: wait
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040143d: xchg eax, ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040143e: salc
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040143f: xchg eax, edx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401440: wait
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401441: xchg eax, ecx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401442: cld
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401443: dec eax
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401444: dec ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401445: cld
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401446: das
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401447: dec eax
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401448: dec ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401449: dec ecx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040144a: nop
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040144b: dec ecx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040144c: xchg eax, ebx
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x0040144d: jmp 0x401b3a
+2024-08-14 14:34:54,241 - INFO - Disassembled instruction at 0x00401452: push 0xb
+2024-08-14 14:34:55,240 - INFO - File info: {
+    "core": {
+        "type": "EXEC (Executable file)",
+        "file": "hello.exe",
+        "fd": 3,
+        "size": 73802,
+        "humansz": "72.1K",
+        "iorw": false,
+        "mode": "r-x",
+        "block": 256,
+        "format": "pe"
+    },
+    "bin": {
+        "arch": "x86",
+        "baddr": 4194304,
+        "binsz": 73802,
+        "bintype": "pe",
+        "bits": 32,
+        "canary": false,
+        "injprot": false,
+        "retguard": false,
+        "class": "PE32",
+        "cmp.csum": "0x000202fd",
+        "compiled": "Sat Sep 19 11:13:18 2009",
+        "compiler": "",
+        "crypto": false,
+        "dbg_file": "C:\\local0\\asf\\release\\build-2.2.14\\support\\Release\\ab.pdb",
+        "endian": "little",
+        "havecode": true,
+        "hdr.csum": "0x00000000",
+        "guid": "4AC180361",
+        "intrp": "",
+        "laddr": 0,
+        "lang": "c",
+        "linenum": true,
+        "lsyms": true,
+        "machine": "i386",
+        "nx": false,
+        "os": "windows",
+        "overlay": true,
+        "cc": "cdecl",
+        "pic": false,
+        "relocs": true,
+        "rpath": "",
+        "signed": false,
+        "sanitize": false,
+        "static": false,
+        "stripped": false,
+        "subsys": "Windows GUI",
+        "va": true,
+        "checksums": {}
+    }
+}
+2024-08-14 14:34:58,990 - INFO - Threat Intelligence Service Score: 82.43% - High Risk
