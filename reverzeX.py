@@ -70,11 +70,11 @@ class ReverzeX:
                 elif cmd == '8':
                     self.basic_properties()
                 elif cmd == '9':
-                    self.network_capture()
-                elif cmd == '10':
                     self.threat_categories()
+                elif cmd == '10':
+                    self.auto_network_captute()
                 elif cmd == '11':
-                    self.auto_network_capture()
+                    self.network_capture()
                 elif cmd == '12':
                     self.generate_pdf_report()
                 elif cmd == 'h':
