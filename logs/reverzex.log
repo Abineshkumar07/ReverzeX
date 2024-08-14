@@ -1,0 +1,715 @@
+2024-08-14 13:50:25,781 - INFO - Opened file: hello.exe
+2024-08-14 13:50:27,758 - INFO - Disassembled instruction at 0x004013eb: dec eax
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013ec: cld
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013ed: das
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013ee: aaa
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013ef: stc
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f0: aas
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f1: dec eax
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f2: cmc
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f3: lahf
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f4: inc ebx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f5: stc
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f6: aas
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f7: aas
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f8: lahf
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013f9: inc ecx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013fa: std
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013fb: cdq
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013fc: xchg eax, ecx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013fd: dec ebx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013fe: inc eax
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x004013ff: inc ebx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401400: cwde
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401401: cwde
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401402: xchg eax, ecx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401403: dec ecx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401404: wait
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401405: wait
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401406: dec eax
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401407: nop
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401408: stc
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401409: xchg eax, ebx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040140a: aas
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040140b: clc
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040140c: dec eax
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040140d: xchg eax, ebx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040140e: aaa
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040140f: dec ecx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401410: cdq
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401411: cld
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401412: wait
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401413: dec ebx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401414: daa
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401415: aas
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401416: daa
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401417: salc
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401418: cwde
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401419: cmc
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040141a: lahf
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040141b: cdq
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040141c: cld
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040141d: std
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040141e: dec ebx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x0040141f: xchg eax, ecx
+2024-08-14 13:50:27,759 - INFO - Disassembled instruction at 0x00401420: xchg eax, ecx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401421: cmc
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401422: cmc
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401423: salc
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401424: std
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401425: inc ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401426: lahf
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401427: cmc
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401428: dec ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401429: aaa
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040142a: dec eax
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040142b: cmc
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040142c: xchg eax, ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040142d: xchg eax, ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040142e: xchg eax, edx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040142f: aaa
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401430: lahf
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401431: dec ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401432: clc
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401433: inc edx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401434: wait
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401435: lahf
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401436: nop
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401437: das
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401438: inc ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401439: inc ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040143a: wait
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040143b: inc edx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040143c: wait
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040143d: xchg eax, ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040143e: salc
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040143f: xchg eax, edx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401440: wait
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401441: xchg eax, ecx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401442: cld
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401443: dec eax
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401444: dec ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401445: cld
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401446: das
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401447: dec eax
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401448: dec ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401449: dec ecx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040144a: nop
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040144b: dec ecx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040144c: xchg eax, ebx
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x0040144d: jmp 0x401b3a
+2024-08-14 13:50:27,760 - INFO - Disassembled instruction at 0x00401452: push 0xb
+2024-08-14 13:50:28,714 - INFO - Strings found: [Strings]
+nth paddr      vaddr      len size section type    string
+―――――――――――――――――――――――――――――――――――――――――――――――――――――――――
+0   0x0000c214 0x0040c214 4   5    .rdata  ascii   MbP?
+1   0x0000c2a0 0x0040c2a0 6   7    .rdata  ascii   (null)
+2   0x0000c2a8 0x0040c2a8 16  17   .rdata  ascii   0123456789abcdef
+3   0x0000c2bc 0x0040c2bc 16  17   .rdata  ascii   0123456789ABCDEF
+4   0x0000c2d0 0x0040c2d0 16  17   .rdata  ascii   0123456789abcdef
+5   0x0000c2e4 0x0040c2e4 16  17   .rdata  ascii   0123456789ABCDEF
+6   0x0000c50c 0x0040c50c 10  11   .rdata  ascii   0123456789
+7   0x0000c618 0x0040c618 65  66   .rdata  ascii   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@>@@@?456789:;<=@@@@@@@
+8   0x0000c660 0x0040c660 7   8    .rdata  ascii   \a\b\t\n\v\f\r
+9   0x0000c673 0x0040c673 6   7    .rdata  ascii   @@@@@@
+10  0x0000c67f 0x0040c67f 217 218  .rdata  ascii    !"#$%&'()*+,-./0123@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+11  0x0000c9c6 0x0040c9c6 4   5    .rdata  ascii   _iob
+12  0x0000c9ce 0x0040c9ce 7   8    .rdata  ascii   fprintf
+13  0x0000c9d8 0x0040c9d8 6   7    .rdata  ascii   strchr
+14  0x0000c9e2 0x0040c9e2 7   8    .rdata  ascii   _pctype
+15  0x0000c9ec 0x0040c9ec 12  13   .rdata  ascii   __mb_cur_max
+16  0x0000c9fc 0x0040c9fc 4   5    .rdata  ascii   exit
+17  0x0000ca04 0x0040ca04 4   5    .rdata  ascii   atoi
+18  0x0000ca0c 0x0040ca0c 8   9    .rdata  ascii   _isctype
+19  0x0000ca18 0x0040ca18 6   7    .rdata  ascii   printf
+20  0x0000ca22 0x0040ca22 6   7    .rdata  ascii   signal
+21  0x0000ca2c 0x0040ca2c 6   7    .rdata  ascii   malloc
+22  0x0000ca36 0x0040ca36 6   7    .rdata  ascii   calloc
+23  0x0000ca40 0x0040ca40 6   7    .rdata  ascii   fflush
+24  0x0000ca4a 0x0040ca4a 6   7    .rdata  ascii   fclose
+25  0x0000ca54 0x0040ca54 6   7    .rdata  ascii   perror
+26  0x0000ca5e 0x0040ca5e 5   6    .rdata  ascii   fopen
+27  0x0000ca66 0x0040ca66 5   6    .rdata  ascii   qsort
+28  0x0000ca6e 0x0040ca6e 5   6    .rdata  ascii   _ftol
+29  0x0000ca76 0x0040ca76 7   8    .rdata  ascii   strncpy
+30  0x0000ca80 0x0040ca80 6   7    .rdata  ascii   strstr
+31  0x0000ca8a 0x0040ca8a 7   8    .rdata  ascii   strncmp
+32  0x0000ca94 0x0040ca94 4   5    .rdata  ascii   free
+33  0x0000ca9c 0x0040ca9c 6   7    .rdata  ascii   _errno
+34  0x0000caa6 0x0040caa6 13  14   .rdata  ascii   __p__wenviron
+35  0x0000cab6 0x0040cab6 12  13   .rdata  ascii   __p__environ
+36  0x0000cac6 0x0040cac6 7   8    .rdata  ascii   realloc
+37  0x0000cad0 0x0040cad0 6   7    .rdata  ascii   strspn
+38  0x0000cada 0x0040cada 4   5    .rdata  ascii   modf
+39  0x0000cae2 0x0040cae2 8   9    .rdata  ascii   strerror
+40  0x0000caee 0x0040caee 6   7    .rdata  ascii   wcscpy
+41  0x0000caf8 0x0040caf8 6   7    .rdata  ascii   wcslen
+42  0x0000cb02 0x0040cb02 6   7    .rdata  ascii   _close
+43  0x0000cb0c 0x0040cb0c 7   8    .rdata  ascii   wcsncmp
+44  0x0000cb16 0x0040cb16 7   8    .rdata  ascii   strrchr
+45  0x0000cb1e 0x0040cb1e 10  11   .rdata  ascii   MSVCRT.dll
+46  0x0000cb2c 0x0040cb2c 11  12   .rdata  ascii   __dllonexit
+47  0x0000cb3a 0x0040cb3a 7   8    .rdata  ascii   _onexit
+48  0x0000cb44 0x0040cb44 5   6    .rdata  ascii   _exit
+49  0x0000cb4c 0x0040cb4c 11  12   .rdata  ascii   _XcptFilter
+50  0x0000cb5a 0x0040cb5a 13  14   .rdata  ascii   __p___initenv
+51  0x0000cb6a 0x0040cb6a 13  14   .rdata  ascii   __getmainargs
+52  0x0000cb7a 0x0040cb7a 9   10   .rdata  ascii   _initterm
+53  0x0000cb86 0x0040cb86 16  17   .rdata  ascii   __setusermatherr
+54  0x0000cb9a 0x0040cb9a 12  13   .rdata  ascii   _adjust_fdiv
+55  0x0000cbaa 0x0040cbaa 12  13   .rdata  ascii   __p__commode
+56  0x0000cbba 0x0040cbba 10  11   .rdata  ascii   __p__fmode
+57  0x0000cbc8 0x0040cbc8 14  15   .rdata  ascii   __set_app_type
+58  0x0000cbda 0x0040cbda 16  17   .rdata  ascii   _except_handler3
+59  0x0000cbee 0x0040cbee 10  11   .rdata  ascii   _controlfp
+60  0x0000cbfc 0x0040cbfc 12  13   .rdata  ascii   SetLastError
+61  0x0000cc0c 0x0040cc0c 23  24   .rdata  ascii   FreeEnvironmentStringsW
+62  0x0000cc26 0x0040cc26 22  23   .rdata  ascii   GetEnvironmentStringsW
+63  0x0000cc40 0x0040cc40 10  11   .rdata  ascii   GlobalFree
+64  0x0000cc4e 0x0040cc4e 15  16   .rdata  ascii   GetCommandLineW
+65  0x0000cc60 0x0040cc60 8   9    .rdata  ascii   TlsAlloc
+66  0x0000cc6c 0x0040cc6c 7   8    .rdata  ascii   TlsFree
+67  0x0000cc76 0x0040cc76 15  16   .rdata  ascii   DuplicateHandle
+68  0x0000cc88 0x0040cc88 17  18   .rdata  ascii   GetCurrentProcess
+69  0x0000cc9c 0x0040cc9c 20  21   .rdata  ascii   SetHandleInformation
+70  0x0000ccb4 0x0040ccb4 11  12   .rdata  ascii   CloseHandle
+71  0x0000ccc2 0x0040ccc2 23  24   .rdata  ascii   GetSystemTimeAsFileTime
+72  0x0000ccdc 0x0040ccdc 20  21   .rdata  ascii   FileTimeToSystemTime
+73  0x0000ccf4 0x0040ccf4 22  23   .rdata  ascii   GetTimeZoneInformation
+74  0x0000cd0e 0x0040cd0e 23  24   .rdata  ascii   FileTimeToLocalFileTime
+75  0x0000cd28 0x0040cd28 20  21   .rdata  ascii   SystemTimeToFileTime
+76  0x0000cd40 0x0040cd40 31  32   .rdata  ascii   SystemTimeToTzSpecificLocalTime
+77  0x0000cd62 0x0040cd62 5   6    .rdata  ascii   Sleep
+78  0x0000cd6a 0x0040cd6a 14  15   .rdata  ascii   FormatMessageA
+79  0x0000cd7c 0x0040cd7c 12  13   .rdata  ascii   GetLastError
+80  0x0000cd8c 0x0040cd8c 19  20   .rdata  ascii   WaitForSingleObject
+81  0x0000cda2 0x0040cda2 12  13   .rdata  ascii   CreateEventA
+82  0x0000cdb2 0x0040cdb2 12  13   .rdata  ascii   SetStdHandle
+83  0x0000cdc2 0x0040cdc2 14  15   .rdata  ascii   SetFilePointer
+84  0x0000cdd4 0x0040cdd4 11  12   .rdata  ascii   CreateFileA
+85  0x0000cde2 0x0040cde2 11  12   .rdata  ascii   CreateFileW
+86  0x0000cdf0 0x0040cdf0 19  20   .rdata  ascii   GetOverlappedResult
+87  0x0000ce06 0x0040ce06 15  16   .rdata  ascii   DeviceIoControl
+88  0x0000ce18 0x0040ce18 26  27   .rdata  ascii   GetFileInformationByHandle
+89  0x0000ce36 0x0040ce36 9   10   .rdata  ascii   LocalFree
+90  0x0000ce42 0x0040ce42 11  12   .rdata  ascii   GetFileType
+91  0x0000ce50 0x0040ce50 12  13   .rdata  ascii   CreateMutexA
+92  0x0000ce60 0x0040ce60 25  26   .rdata  ascii   InitializeCriticalSection
+93  0x0000ce7c 0x0040ce7c 21  22   .rdata  ascii   DeleteCriticalSection
+94  0x0000ce94 0x0040ce94 20  21   .rdata  ascii   EnterCriticalSection
+95  0x0000ceac 0x0040ceac 12  13   .rdata  ascii   ReleaseMutex
+96  0x0000cebc 0x0040cebc 8   9    .rdata  ascii   SetEvent
+97  0x0000cec8 0x0040cec8 20  21   .rdata  ascii   LeaveCriticalSection
+98  0x0000cee0 0x0040cee0 16  17   .rdata  ascii   TerminateProcess
+99  0x0000cef4 0x0040cef4 18  19   .rdata  ascii   GetExitCodeProcess
+100 0x0000cf0a 0x0040cf0a 13  14   .rdata  ascii   GetVersionExA
+101 0x0000cf1a 0x0040cf1a 14  15   .rdata  ascii   GetProcAddress
+102 0x0000cf2c 0x0040cf2c 12  13   .rdata  ascii   LoadLibraryA
+103 0x0000cf3c 0x0040cf3c 9   10   .rdata  ascii   WriteFile
+104 0x0000cf48 0x0040cf48 8   9    .rdata  ascii   ReadFile
+105 0x0000cf54 0x0040cf54 13  14   .rdata  ascii   PeekNamedPipe
+106 0x0000cf62 0x0040cf62 12  13   .rdata  ascii   KERNEL32.dll
+107 0x0000cf72 0x0040cf72 24  25   .rdata  ascii   AllocateAndInitializeSid
+108 0x0000cf8e 0x0040cf8e 7   8    .rdata  ascii   FreeSid
+109 0x0000cf96 0x0040cf96 12  13   .rdata  ascii   ADVAPI32.dll
+110 0x0000cfa4 0x0040cfa4 11  12   .rdata  ascii   WSOCK32.dll
+111 0x0000cfb2 0x0040cfb2 7   8    .rdata  ascii   WSASend
+112 0x0000cfbc 0x0040cfbc 7   8    .rdata  ascii   WSARecv
+113 0x0000cfc4 0x0040cfc4 10  11   .rdata  ascii   WS2_32.dll
+114 0x0000cfd2 0x0040cfd2 9   10   .rdata  ascii   _strnicmp
+115 0x0000cfde 0x0040cfde 7   8    .rdata  ascii   _strdup
+116 0x0000d034 0x0040d034 9   40   .data   utf32le 2BKPZ_bcd
+117 0x0000d05c 0x0040d05c 67  68   .data   ascii   Cannot use concurrency level greater than total number of requests\n
+118 0x0000d0a0 0x0040d0a0 38  39   .data   ascii   %s: Invalid Concurrency [Range 0..%d]\n
+119 0x0000d0c8 0x0040d0c8 16  17   .data   ascii   %s: invalid URL\n
+120 0x0000d0dc 0x0040d0dc 30  31   .data   ascii   %s: wrong number of arguments\n
+121 0x0000d0fc 0x0040d0fc 11  12   .data   ascii   User-Agent:
+122 0x0000d108 0x0040d108 7   8    .data   ascii   Accept:
+123 0x0000d110 0x0040d110 5   6    .data   ascii   Host:
+124 0x0000d118 0x0040d118 27  28   .data   ascii   Proxy-Authorization: Basic
+125 0x0000d134 0x0040d134 27  28   .data   ascii   Proxy credentials too long\n
+126 0x0000d150 0x0040d150 21  22   .data   ascii   Authorization: Basic
+127 0x0000d168 0x0040d168 36  37   .data   ascii   Authentication credentials too long\n
+128 0x0000d190 0x0040d190 8   9    .data   ascii   Cookie:
+129 0x0000d1a0 0x0040d1a0 24  25   .data   ascii   Cannot mix PUT and HEAD\n
+130 0x0000d1bc 0x0040d1bc 25  26   .data   ascii   Cannot mix POST and HEAD\n
+131 0x0000d1d8 0x0040d1d8 29  30   .data   ascii   Cannot mix POST/PUT and HEAD\n
+132 0x0000d1f8 0x0040d1f8 27  28   .data   ascii   Invalid number of requests\n
+133 0x0000d214 0x0040d214 45  46   .data   ascii   n:c:t:b:T:p:u:v:rkVhwix:y:z:C:H:P:A:g:X:de:Sq
+134 0x0000d244 0x0040d244 13  14   .data   ascii   bgcolor=white
+135 0x0000d254 0x0040d254 31  32   .data   ascii   Total of %d requests completed\n
+136 0x0000d278 0x0040d278 7   8    .data   ascii   ..done\n
+137 0x0000d280 0x0040d280 21  22   .data   ascii   Finished %d requests\n
+138 0x0000d298 0x0040d298 20  21   .data   ascii   apr_socket_connect()
+139 0x0000d2b0 0x0040d2b0 33  34   .data   ascii   \nTest aborted after 10 failures\n\n
+140 0x0000d2d4 0x0040d2d4 19  20   .data   ascii   \nServer timed out\n\n
+141 0x0000d2e8 0x0040d2e8 8   9    .data   ascii   apr_poll
+142 0x0000d2f4 0x0040d2f4 30  31   .data   ascii   apr_sockaddr_info_get() for %s
+143 0x0000d314 0x0040d314 45  46   .data   ascii   error creating request buffer: out of memory\n
+144 0x0000d344 0x0040d344 31  32   .data   ascii   INFO: %s header == \n---\n%s\n---\n
+145 0x0000d364 0x0040d364 17  18   .data   ascii   Request too long\n
+146 0x0000d378 0x0040d378 64  65   .data   ascii   %s %s HTTP/1.0\r\n%s%s%sContent-length: %u\r\nContent-type: %s\r\n%s\r\n
+147 0x0000d3c0 0x0040d3c0 4   5    .data   ascii   POST
+148 0x0000d3c8 0x0040d3c8 10  11   .data   ascii   text/plain
+149 0x0000d3d4 0x0040d3d4 26  27   .data   ascii   %s %s HTTP/1.0\r\n%s%s%s%s\r\n
+150 0x0000d3f0 0x0040d3f0 4   5    .data   ascii   HEAD
+151 0x0000d3fc 0x0040d3fc 24  25   .data   ascii   Connection: Keep-Alive\r\n
+152 0x0000d418 0x0040d418 13  14   .data   ascii   Accept: */*\r\n
+153 0x0000d428 0x0040d428 24  25   .data   ascii   User-Agent: ApacheBench/
+154 0x0000d448 0x0040d448 6   7    .data   ascii   Host:
+155 0x0000d450 0x0040d450 25  26   .data   ascii   apr_pollset_create failed
+156 0x0000d46c 0x0040d46c 14  15   .data   ascii   (be patient)%s
+157 0x0000d484 0x0040d484 16  17   .data   ascii   [through %s:%d]
+158 0x0000d498 0x0040d498 16  17   .data   ascii   Benchmarking %s
+159 0x0000d4ac 0x0040d4ac 12  13   .data   ascii   %s: %s (%d)\n
+160 0x0000d4bc 0x0040d4bc 21  22   .data   ascii   Send request failed!\n
+161 0x0000d4d4 0x0040d4d4 24  25   .data   ascii   Send request timed out!\n
+162 0x0000d4f0 0x0040d4f0 33  34   .data   ascii   %s\t%I64d\t%I64d\t%I64d\t%I64d\t%I64d\n
+163 0x0000d514 0x0040d514 41  42   .data   ascii   starttime\tseconds\tctime\tdtime\tttime\twait\n
+164 0x0000d540 0x0040d540 31  32   .data   ascii   Cannot open gnuplot output file
+165 0x0000d560 0x0040d560 8   9    .data   ascii   %d,%.3f\n
+166 0x0000d56c 0x0040d56c 29  30   .data   ascii   Percentage served,Time in ms\n
+167 0x0000d58c 0x0040d58c 27  28   .data   ascii   Cannot open CSV output file
+168 0x0000d5ac 0x0040d5ac 15  16   .data   ascii     %d%%  %5I64d\n
+169 0x0000d5bc 0x0040d5bc 33  34   .data   ascii    100%%  %5I64d (longest request)\n
+170 0x0000d5e0 0x0040d5e0 18  19   .data   ascii    0%%  <0> (never)\n
+171 0x0000d5f4 0x0040d5f4 62  63   .data   ascii   \nPercentage of the requests served within a certain time (ms)\n
+172 0x0000d634 0x0040d634 32  33   .data   ascii   Total:      %5I64d %5I64d%5I64d\n
+173 0x0000d658 0x0040d658 32  33   .data   ascii   Processing: %5I64d %5I64d%5I64d\n
+174 0x0000d67c 0x0040d67c 32  33   .data   ascii   Connect:    %5I64d %5I64d%5I64d\n
+175 0x0000d6a0 0x0040d6a0 30  31   .data   ascii                 min   avg   max\n
+176 0x0000d6c0 0x0040d6c0 136 137  .data   ascii   WARNING: The median and mean for the total time are not within a normal deviation\n        These results are probably not that reliable.\n
+177 0x0000d750 0x0040d750 135 136  .data   ascii   ERROR: The median and mean for the total time are more than twice the standard\n       deviation apart. These results are NOT reliable.\n
+178 0x0000d7d8 0x0040d7d8 138 139  .data   ascii   WARNING: The median and mean for the waiting time are not within a normal deviation\n        These results are probably not that reliable.\n
+179 0x0000d868 0x0040d868 137 138  .data   ascii   ERROR: The median and mean for the waiting time are more than twice the standard\n       deviation apart. These results are NOT reliable.\n
+180 0x0000d8f8 0x0040d8f8 141 142  .data   ascii   WARNING: The median and mean for the processing time are not within a normal deviation\n        These results are probably not that reliable.\n
+181 0x0000d988 0x0040d988 140 141  .data   ascii   ERROR: The median and mean for the processing time are more than twice the standard\n       deviation apart. These results are NOT reliable.\n
+182 0x0000da18 0x0040da18 149 150  .data   ascii   WARNING: The median and mean for the initial connection time are not within a normal deviation\n        These results are probably not that reliable.\n
+183 0x0000dab0 0x0040dab0 148 149  .data   ascii   ERROR: The median and mean for the initial connection time are more than twice the standard\n       deviation apart. These results are NOT reliable.\n
+184 0x0000db48 0x0040db48 46  47   .data   ascii   Total:      %5I64d %4I64d %5.1f %6I64d %7I64d\n
+185 0x0000db78 0x0040db78 46  47   .data   ascii   Waiting:    %5I64d %4I64d %5.1f %6I64d %7I64d\n
+186 0x0000dba8 0x0040dba8 46  47   .data   ascii   Processing: %5I64d %4I64d %5.1f %6I64d %7I64d\n
+187 0x0000dbd8 0x0040dbd8 46  47   .data   ascii   Connect:    %5I64d %4I64d %5.1f %6I64d %7I64d\n
+188 0x0000dc08 0x0040dc08 44  45   .data   ascii                 min  mean[+/-sd] median   max\n
+189 0x0000dc38 0x0040dc38 23  24   .data   ascii   \nConnection Times (ms)\n
+190 0x0000dc50 0x0040dc50 40  41   .data   ascii                           %.2f kb/s total\n
+191 0x0000dc7c 0x0040dc7c 39  40   .data   ascii                           %.2f kb/s sent\n
+192 0x0000dca4 0x0040dca4 51  52   .data   ascii   Transfer rate:          %.2f [Kbytes/sec] received\n
+193 0x0000dcd8 0x0040dcd8 73  74   .data   ascii   Time per request:       %.3f [ms] (mean, across all concurrent requests)\n
+194 0x0000dd24 0x0040dd24 41  42   .data   ascii   Time per request:       %.3f [ms] (mean)\n
+195 0x0000dd50 0x0040dd50 44  45   .data   ascii   Requests per second:    %.2f [#/sec] (mean)\n
+196 0x0000dd80 0x0040dd80 36  37   .data   ascii   HTML transferred:       %I64d bytes\n
+197 0x0000dda8 0x0040dda8 30  31   .data   ascii   Total PUT:              %I64d\n
+198 0x0000ddc8 0x0040ddc8 30  31   .data   ascii   Total POSTed:           %I64d\n
+199 0x0000dde8 0x0040dde8 36  37   .data   ascii   Total transferred:      %I64d bytes\n
+200 0x0000de10 0x0040de10 27  28   .data   ascii   Keep-Alive requests:    %d\n
+201 0x0000de2c 0x0040de2c 27  28   .data   ascii   Non-2xx responses:      %d\n
+202 0x0000de48 0x0040de48 27  28   .data   ascii   Write errors:           %d\n
+203 0x0000de64 0x0040de64 58  59   .data   ascii      (Connect: %d, Receive: %d, Length: %d, Exceptions: %d)\n
+204 0x0000dea0 0x0040dea0 27  28   .data   ascii   Failed requests:        %d\n
+205 0x0000debc 0x0040debc 27  28   .data   ascii   Complete requests:      %d\n
+206 0x0000ded8 0x0040ded8 37  38   .data   ascii   Time taken for tests:   %.3f seconds\n
+207 0x0000df00 0x0040df00 27  28   .data   ascii   Concurrency Level:      %d\n
+208 0x0000df1c 0x0040df1c 33  34   .data   ascii   Document Length:        %u bytes\n
+209 0x0000df40 0x0040df40 27  28   .data   ascii   Document Path:          %s\n
+210 0x0000df5c 0x0040df5c 28  29   .data   ascii   Server Port:            %hu\n
+211 0x0000df7c 0x0040df7c 27  28   .data   ascii   Server Hostname:        %s\n
+212 0x0000df98 0x0040df98 27  28   .data   ascii   Server Software:        %s\n
+213 0x0000dfb8 0x0040dfb8 9   10   .data   ascii   </table>\n
+214 0x0000dfc8 0x0040dfc8 85  86   .data   ascii   <tr %s><th %s>Total:</th><td %s>%5I64d</td><td %s>%5I64d</td><td %s>%5I64d</td></tr>\n
+215 0x0000e020 0x0040e020 90  91   .data   ascii   <tr %s><th %s>Processing:</th><td %s>%5I64d</td><td %s>%5I64d</td><td %s>%5I64d</td></tr>\n
+216 0x0000e080 0x0040e080 87  88   .data   ascii   <tr %s><th %s>Connect:</th><td %s>%5I64d</td><td %s>%5I64d</td><td %s>%5I64d</td></tr>\n
+217 0x0000e0d8 0x0040e0d8 83  84   .data   ascii   <tr %s><th %s>&nbsp;</th> <th %s>min</th>   <th %s>avg</th>   <th %s>max</th></tr>\n
+218 0x0000e12c 0x0040e12c 57  58   .data   ascii   <tr %s><th %s colspan=4>Connnection Times (ms)</th></tr>\n
+219 0x0000e168 0x0040e168 78  79   .data   ascii   <tr %s><td colspan=2 %s>&nbsp;</td><td colspan=2 %s>%.2f kb/s total</td></tr>\n
+220 0x0000e1b8 0x0040e1b8 77  78   .data   ascii   <tr %s><td colspan=2 %s>&nbsp;</td><td colspan=2 %s>%.2f kb/s sent</td></tr>\n
+221 0x0000e208 0x0040e208 89  90   .data   ascii   <tr %s><th colspan=2 %s>Transfer rate:</th><td colspan=2 %s>%.2f kb/s received</td></tr>\n
+222 0x0000e268 0x0040e268 81  82   .data   ascii   <tr %s><th colspan=2 %s>Requests per second:</th><td colspan=2 %s>%.2f</td></tr>\n
+223 0x0000e2c0 0x0040e2c0 85  86   .data   ascii   <tr %s><th colspan=2 %s>HTML transferred:</th><td colspan=2 %s>%I64d bytes</td></tr>\n
+224 0x0000e318 0x0040e318 72  73   .data   ascii   <tr %s><th colspan=2 %s>Total PUT:</th><td colspan=2 %s>%I64d</td></tr>\n
+225 0x0000e368 0x0040e368 75  76   .data   ascii   <tr %s><th colspan=2 %s>Total POSTed:</th><td colspan=2 %s>%I64d</td></tr>\n
+226 0x0000e3b8 0x0040e3b8 86  87   .data   ascii   <tr %s><th colspan=2 %s>Total transferred:</th><td colspan=2 %s>%I64d bytes</td></tr>\n
+227 0x0000e410 0x0040e410 79  80   .data   ascii   <tr %s><th colspan=2 %s>Keep-Alive requests:</th><td colspan=2 %s>%d</td></tr>\n
+228 0x0000e460 0x0040e460 77  78   .data   ascii   <tr %s><th colspan=2 %s>Non-2xx responses:</th><td colspan=2 %s>%d</td></tr>\n
+229 0x0000e4b0 0x0040e4b0 80  81   .data   ascii   <tr %s><td colspan=4 %s >   (Connect: %d, Length: %d, Exceptions: %d)</td></tr>\n
+230 0x0000e508 0x0040e508 75  76   .data   ascii   <tr %s><th colspan=2 %s>Failed requests:</th><td colspan=2 %s>%d</td></tr>\n
+231 0x0000e558 0x0040e558 77  78   .data   ascii   <tr %s><th colspan=2 %s>Complete requests:</th><td colspan=2 %s>%d</td></tr>\n
+232 0x0000e5a8 0x0040e5a8 90  91   .data   ascii   <tr %s><th colspan=2 %s>Time taken for tests:</th><td colspan=2 %s>%.3f seconds</td></tr>\n
+233 0x0000e608 0x0040e608 77  78   .data   ascii   <tr %s><th colspan=2 %s>Concurrency Level:</th><td colspan=2 %s>%d</td></tr>\n
+234 0x0000e658 0x0040e658 81  82   .data   ascii   <tr %s><th colspan=2 %s>Document Length:</th><td colspan=2 %s>%u bytes</td></tr>\n
+235 0x0000e6b0 0x0040e6b0 73  74   .data   ascii   <tr %s><th colspan=2 %s>Document Path:</th><td colspan=2 %s>%s</td></tr>\n
+236 0x0000e700 0x0040e700 72  73   .data   ascii   <tr %s><th colspan=2 %s>Server Port:</th><td colspan=2 %s>%hu</td></tr>\n
+237 0x0000e750 0x0040e750 75  76   .data   ascii   <tr %s><th colspan=2 %s>Server Hostname:</th><td colspan=2 %s>%s</td></tr>\n
+238 0x0000e7a0 0x0040e7a0 75  76   .data   ascii   <tr %s><th colspan=2 %s>Server Software:</th><td colspan=2 %s>%s</td></tr>\n
+239 0x0000e7ec 0x0040e7ec 13  14   .data   ascii   \n\n<table %s>\n
+240 0x0000e7fc 0x0040e7fc 21  22   .data   ascii   socket receive buffer
+241 0x0000e814 0x0040e814 18  19   .data   ascii   socket send buffer
+242 0x0000e828 0x0040e828 15  16   .data   ascii   socket nonblock
+243 0x0000e838 0x0040e838 6   7    .data   ascii   socket
+244 0x0000e840 0x0040e840 22  23   .data   ascii   Completed %d requests\n
+245 0x0000e858 0x0040e858 15  16   .data   ascii   Content-length:
+246 0x0000e868 0x0040e868 15  16   .data   ascii   Content-Length:
+247 0x0000e878 0x0040e878 10  11   .data   ascii   keep-alive
+248 0x0000e884 0x0040e884 10  11   .data   ascii   Keep-Alive
+249 0x0000e890 0x0040e890 24  25   .data   ascii   LOG: Response code = %s\n
+250 0x0000e8ac 0x0040e8ac 36  37   .data   ascii   WARNING: Response code not 2xx (%s)\n
+251 0x0000e8d8 0x0040e8d8 4   5    .data   ascii   HTTP
+252 0x0000e8e0 0x0040e8e0 7   8    .data   ascii   Server:
+253 0x0000e8e8 0x0040e8e8 4   5    .data   ascii   \r\n\r\n
+254 0x0000e8f0 0x0040e8f0 25  26   .data   ascii   LOG: header received:\n%s\n
+255 0x0000e90c 0x0040e90c 15  16   .data   ascii   apr_socket_recv
+256 0x0000e91c 0x0040e91c 9   10   .data   ascii   </p>\n<p>\n
+257 0x0000e928 0x0040e928 72  73   .data   ascii    Licensed to The Apache Software Foundation, http://www.apache.org/<br>\n
+258 0x0000e978 0x0040e978 78  79   .data   ascii    Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/<br>\n
+259 0x0000e9c8 0x0040e9c8 55  56   .data   ascii    This is ApacheBench, Version %s <i>&lt;%s&gt;</i><br>\n
+260 0x0000ea00 0x0040ea00 19  20   .data   ascii   $Revision: 655654 $
+261 0x0000ea14 0x0040ea14 4   5    .data   ascii   <p>\n
+262 0x0000ea20 0x0040ea20 67  68   .data   ascii   Licensed to The Apache Software Foundation, http://www.apache.org/\n
+263 0x0000ea68 0x0040ea68 73  74   .data   ascii   Copyright 1996 Adam Twiss, Zeus Technology Ltd, http://www.zeustech.net/\n
+264 0x0000eab4 0x0040eab4 32  33   .data   ascii   This is ApacheBench, Version %s\n
+265 0x0000ead8 0x0040ead8 25  26   .data   ascii   2.3 <$Revision: 655654 $>
+266 0x0000eaf4 0x0040eaf4 61  62   .data   ascii       -h              Display usage information (this message)\n
+267 0x0000eb34 0x0040eb34 57  58   .data   ascii       -r              Don't exit on socket receive errors.\n
+268 0x0000eb70 0x0040eb70 60  61   .data   ascii       -e filename     Output CSV file with percentages served\n
+269 0x0000ebb0 0x0040ebb0 66  67   .data   ascii       -g filename     Output collected data to gnuplot format file.\n
+270 0x0000ebf8 0x0040ebf8 68  69   .data   ascii       -S              Do not show confidence estimators and warnings.\n
+271 0x0000ec40 0x0040ec40 58  59   .data   ascii       -d              Do not show percentiles served table.\n
+272 0x0000ec7c 0x0040ec7c 47  48   .data   ascii       -k              Use HTTP KeepAlive feature\n
+273 0x0000ecac 0x0040ecac 50  51   .data   ascii       -V              Print version number and exit\n
+274 0x0000ece0 0x0040ece0 55  56   .data   ascii       -X proxy:port   Proxyserver and port number to use\n
+275 0x0000ed18 0x0040ed18 67  68   .data   ascii       -P attribute    Add Basic Proxy Authentication, the attributes\n
+276 0x0000ed60 0x0040ed60 65  66   .data   ascii                       are a colon separated username and password.\n
+277 0x0000eda8 0x0040eda8 65  66   .data   ascii       -A attribute    Add Basic WWW Authentication, the attributes\n
+278 0x0000edf0 0x0040edf0 73  74   .data   ascii                       Inserted after all normal header lines. (repeatable)\n
+279 0x0000ee40 0x0040ee40 75  76   .data   ascii       -H attribute    Add Arbitrary header line, eg. 'Accept-Encoding: gzip'\n
+280 0x0000ee90 0x0040ee90 63  64   .data   ascii       -C attribute    Add cookie, eg. 'Apache=1234. (repeatable)\n
+281 0x0000eed0 0x0040eed0 60  61   .data   ascii       -z attributes   String to insert as td or th attributes\n
+282 0x0000ef10 0x0040ef10 54  55   .data   ascii       -y attributes   String to insert as tr attributes\n
+283 0x0000ef48 0x0040ef48 57  58   .data   ascii       -x attributes   String to insert as table attributes\n
+284 0x0000ef84 0x0040ef84 44  45   .data   ascii       -i              Use HEAD instead of GET\n
+285 0x0000efb4 0x0040efb4 53  54   .data   ascii       -w              Print out results in HTML tables\n
+286 0x0000efec 0x0040efec 59  60   .data   ascii       -v verbosity    How much troubleshooting info to print\n
+287 0x0000f028 0x0040f028 44  45   .data   ascii                       Default is 'text/plain'\n
+288 0x0000f058 0x0040f058 56  57   .data   ascii                       'application/x-www-form-urlencoded'\n
+289 0x0000f094 0x0040f094 57  58   .data   ascii       -T content-type Content-type header for POSTing, eg.\n
+290 0x0000f0d0 0x0040f0d0 73  74   .data   ascii       -u putfile      File containing data to PUT. Remember also to set -T\n
+291 0x0000f120 0x0040f120 74  75   .data   ascii       -p postfile     File containing data to POST. Remember also to set -T\n
+292 0x0000f16c 0x0040f16c 62  63   .data   ascii       -b windowsize   Size of TCP send/receive buffer, in bytes\n
+293 0x0000f1ac 0x0040f1ac 55  56   .data   ascii       -t timelimit    Seconds to max. wait for responses\n
+294 0x0000f1e4 0x0040f1e4 56  57   .data   ascii       -c concurrency  Number of multiple requests to make\n
+295 0x0000f220 0x0040f220 50  51   .data   ascii       -n requests     Number of requests to perform\n
+296 0x0000f254 0x0040f254 13  14   .data   ascii   Options are:\n
+297 0x0000f264 0x0040f264 50  51   .data   ascii   Usage: %s [options] [http://]hostname[:port]/path\n
+298 0x0000f29c 0x0040f29c 38  39   .data   ascii   SSL not compiled in; no https support\n
+299 0x0000f2c4 0x0040f2c4 8   9    .data   ascii   https://
+300 0x0000f2d0 0x0040f2d0 4   5    .data   ascii   [%s]
+301 0x0000f2d8 0x0040f2d8 7   8    .data   ascii   http://
+302 0x0000f2e0 0x0040f2e0 38  39   .data   ascii   ab: Could not read POST data file: %s\n
+303 0x0000f308 0x0040f308 40  41   .data   ascii   ab: Could not allocate POST data buffer\n
+304 0x0000f334 0x0040f334 43  44   .data   ascii   ab: Could not stat POST data file (%s): %s\n
+305 0x0000f360 0x0040f360 43  44   .data   ascii   ab: Could not open POST data file (%s): %s\n
+306 0x0000f38c 0x0040f38c 15  16   .data   ascii   apr_global_pool
+307 0x0000f39c 0x0040f39c 7   8    .data   ascii   %d.%d%c
+308 0x0000f3a4 0x0040f3a4 4   5    .data   ascii   ****
+309 0x0000f3ac 0x0040f3ac 5   6    .data   ascii   %3d%c
+310 0x0000f3b4 0x0040f3b4 4   5    .data   ascii   %3d
+311 0x0000f3bc 0x0040f3bc 4   5    .data   ascii     -
+312 0x0000f3c4 0x0040f3c4 6   7    .data   ascii   KMGTPE
+313 0x0000f3cc 0x0040f3cc 25  26   .data   ascii   %s: illegal option -- %c\n
+314 0x0000f3e8 0x0040f3e8 38  39   .data   ascii   %s: option requires an argument -- %c\n
+315 0x0000f410 0x0040f410 18  19   .data   ascii   CommandLineToArgvW
+316 0x0000f424 0x0040f424 14  15   .data   ascii   apr_initialize
+317 0x0000f434 0x0040f434 11  12   .data   ascii   0123456789.
+318 0x0000f440 0x0040f440 7   8    .data   ascii   0.0.0.0
+319 0x0000f448 0x0040f448 8   9    .data   ascii   bogus %p
+320 0x0000f454 0x0040f454 4   5    .data   ascii   I64d
+321 0x0000f45c 0x0040f45c 35  36   .data   ascii   No host data of that type was found
+322 0x0000f480 0x0040f480 14  15   .data   ascii   Host not found
+323 0x0000f490 0x0040f490 29  30   .data   ascii   Graceful shutdown in progress
+324 0x0000f4b0 0x0040f4b0 25  26   .data   ascii   WSAStartup not yet called
+325 0x0000f4cc 0x0040f4cc 28  29   .data   ascii   Winsock version out of range
+326 0x0000f4ec 0x0040f4ec 29  30   .data   ascii   Network system is unavailable
+327 0x0000f50c 0x0040f50c 33  34   .data   ascii   Too many levels of remote in path
+328 0x0000f530 0x0040f530 21  22   .data   ascii   Stale NFS file handle
+329 0x0000f548 0x0040f548 19  20   .data   ascii   Disc quota exceeded
+330 0x0000f55c 0x0040f55c 14  15   .data   ascii   Too many users
+331 0x0000f56c 0x0040f56c 18  19   .data   ascii   Too many processes
+332 0x0000f580 0x0040f580 19  20   .data   ascii   Directory not empty
+333 0x0000f594 0x0040f594 16  17   .data   ascii   No route to host
+334 0x0000f5a8 0x0040f5a8 12  13   .data   ascii   Host is down
+335 0x0000f5b8 0x0040f5b8 18  19   .data   ascii   File name too long
+336 0x0000f5cc 0x0040f5cc 33  34   .data   ascii   Too many levels of symbolic links
+337 0x0000f5f0 0x0040f5f0 18  19   .data   ascii   Connection refused
+338 0x0000f604 0x0040f604 20  21   .data   ascii   Connection timed out
+339 0x0000f61c 0x0040f61c 33  34   .data   ascii   Too many references, can't splice
+340 0x0000f640 0x0040f640 32  33   .data   ascii   Can't send after socket shutdown
+341 0x0000f664 0x0040f664 23  24   .data   ascii   Socket is not connected
+342 0x0000f67c 0x0040f67c 27  28   .data   ascii   Socket is already connected
+343 0x0000f698 0x0040f698 25  26   .data   ascii   No buffer space available
+344 0x0000f6b4 0x0040f6b4 24  25   .data   ascii   Connection reset by peer
+345 0x0000f6d0 0x0040f6d0 32  33   .data   ascii   Software caused connection abort
+346 0x0000f6f4 0x0040f6f4 20  21   .data   ascii   Net connection reset
+347 0x0000f70c 0x0040f70c 22  23   .data   ascii   Network is unreachable
+348 0x0000f724 0x0040f724 15  16   .data   ascii   Network is down
+349 0x0000f734 0x0040f734 30  31   .data   ascii   Can't assign requested address
+350 0x0000f754 0x0040f754 22  23   .data   ascii   Address already in use
+351 0x0000f76c 0x0040f76c 28  29   .data   ascii   Address family not supported
+352 0x0000f78c 0x0040f78c 29  30   .data   ascii   Protocol family not supported
+353 0x0000f7ac 0x0040f7ac 33  34   .data   ascii   Operation not supported on socket
+354 0x0000f7d0 0x0040f7d0 25  26   .data   ascii   Socket type not supported
+355 0x0000f7ec 0x0040f7ec 22  23   .data   ascii   Protocol not supported
+356 0x0000f804 0x0040f804 19  20   .data   ascii   Bad protocol option
+357 0x0000f818 0x0040f818 30  31   .data   ascii   Protocol wrong type for socket
+358 0x0000f838 0x0040f838 16  17   .data   ascii   Message too long
+359 0x0000f84c 0x0040f84c 28  29   .data   ascii   Destination address required
+360 0x0000f86c 0x0040f86c 30  31   .data   ascii   Socket operation on non-socket
+361 0x0000f88c 0x0040f88c 29  30   .data   ascii   Operation already in progress
+362 0x0000f8ac 0x0040f8ac 25  26   .data   ascii   Operation now in progress
+363 0x0000f8c8 0x0040f8c8 21  22   .data   ascii   Operation would block
+364 0x0000f8e0 0x0040f8e0 21  22   .data   ascii   Too many open sockets
+365 0x0000f8f8 0x0040f8f8 16  17   .data   ascii   Invalid argument
+366 0x0000f90c 0x0040f90c 11  12   .data   ascii   Bad address
+367 0x0000f918 0x0040f918 17  18   .data   ascii   Permission denied
+368 0x0000f92c 0x0040f92c 15  16   .data   ascii   Bad file number
+369 0x0000f93c 0x0040f93c 23  24   .data   ascii   Interrupted system call
+370 0x0000f954 0x0040f954 39  40   .data   ascii   APR does not understand this error code
+371 0x0000f97c 0x0040f97c 30  31   .data   ascii   Error string not specified yet
+372 0x0000f99c 0x0040f99c 22  23   .data   ascii   passwords do not match
+373 0x0000f9b4 0x0040f9b4 55  56   .data   ascii   This function has not been implemented on this platform
+374 0x0000f9f0 0x0040f9f0 65  66   .data   ascii   There is no error, this value signifies an initialized error code
+375 0x0000fa34 0x0040fa34 47  48   .data   ascii   Shared memory is implemented using a key system
+376 0x0000fa64 0x0040fa64 40  41   .data   ascii   Shared memory is implemented using files
+377 0x0000fa90 0x0040fa90 40  41   .data   ascii   Shared memory is implemented anonymously
+378 0x0000fabc 0x0040fabc 45  46   .data   ascii   Could not find specified socket in poll list.
+379 0x0000faec 0x0040faec 17  18   .data   ascii   End of file found
+380 0x0000fb00 0x0040fb00 55  56   .data   ascii   Missing parameter for the specified command line option
+381 0x0000fb38 0x0040fb38 39  40   .data   ascii   Bad character specified on command line
+382 0x0000fb60 0x0040fb60 54  55   .data   ascii   Partial results are valid but processing is incomplete
+383 0x0000fb98 0x0040fb98 33  34   .data   ascii   The timeout specified has expired
+384 0x0000fbbc 0x0040fbbc 49  50   .data   ascii   The specified child process is not done executing
+385 0x0000fbf0 0x0040fbf0 45  46   .data   ascii   The specified child process is done executing
+386 0x0000fc20 0x0040fc20 36  37   .data   ascii   The specified thread is not detached
+387 0x0000fc48 0x0040fc48 32  33   .data   ascii   The specified thread is detached
+388 0x0000fc70 0x0040fc70 76  77   .data   ascii   Your code just forked, and you are currently executing in the parent process
+389 0x0000fcc0 0x0040fcc0 75  76   .data   ascii   Your code just forked, and you are currently executing in the child process
+390 0x0000fd0c 0x0040fd0c 14  15   .data   ascii   Internal error
+391 0x0000fd1c 0x0040fd1c 30  31   .data   ascii   The process is not recognized.
+392 0x0000fd3c 0x0040fd3c 44  45   .data   ascii   The given path contained wildcard characters
+393 0x0000fd6c 0x0040fd6c 62  63   .data   ascii   The given path is misformatted or contained invalid characters
+394 0x0000fdac 0x0040fdac 38  39   .data   ascii   The given path was above the root path
+395 0x0000fdd4 0x0040fdd4 28  29   .data   ascii   The given path is incomplete
+396 0x0000fdf4 0x0040fdf4 26  27   .data   ascii   The given path is relative
+397 0x0000fe10 0x0040fe10 26  27   .data   ascii   The given path is absolute
+398 0x0000fe2c 0x0040fe2c 38  39   .data   ascii   The specified network mask is invalid.
+399 0x0000fe54 0x0040fe54 36  37   .data   ascii   The specified IP address is invalid.
+400 0x0000fe7c 0x0040fe7c 15  16   .data   ascii   DSO load failed
+401 0x0000fe8c 0x0040fe8c 39  40   .data   ascii   No shared memory is currently available
+402 0x0000feb4 0x0040feb4 58  59   .data   ascii   No thread key structure was provided and one was required.
+403 0x0000fef0 0x0040fef0 44  45   .data   ascii   No thread was provided and one was required.
+404 0x0000ff20 0x0040ff20 44  45   .data   ascii   No socket was provided and one was required.
+405 0x0000ff50 0x0040ff50 52  53   .data   ascii   No poll structure was provided and one was required.
+406 0x0000ff88 0x0040ff88 42  43   .data   ascii   No lock was provided and one was required.
+407 0x0000ffb4 0x0040ffb4 47  48   .data   ascii   No directory was provided and one was required.
+408 0x0000ffe4 0x0040ffe4 42  43   .data   ascii   No time was provided and one was required.
+409 0x00010010 0x00410010 45  46   .data   ascii   No process was provided and one was required.
+410 0x00010040 0x00410040 30  31   .data   ascii   An invalid socket was returned
+411 0x00010060 0x00410060 33  34   .data   ascii   An invalid date has been provided
+412 0x00010084 0x00410084 32  33   .data   ascii   A new pool could not be created.
+413 0x000100a8 0x004100a8 32  33   .data   ascii   Unrecognized Win32 error code %d
+414 0x000100cc 0x004100cc 8   18   .data   utf16le \\?\UNC\
+415 0x000100e0 0x004100e0 4   10   .data   utf16le \\?\
+416 0x000100ec 0x004100ec 8   9    .data   ascii   CancelIo
+417 0x000100f8 0x004100f8 22  23   .data   ascii   GetCompressedFileSizeA
+418 0x00010110 0x00410110 22  23   .data   ascii   GetCompressedFileSizeW
+419 0x00010128 0x00410128 22  23   .data   ascii   ZwQueryInformationFile
+420 0x00010140 0x00410140 15  16   .data   ascii   GetSecurityInfo
+421 0x00010150 0x00410150 21  22   .data   ascii   GetNamedSecurityInfoA
+422 0x00010168 0x00410168 21  22   .data   ascii   GetNamedSecurityInfoW
+423 0x00010180 0x00410180 4   10   .data   utf16le UNC\
+424 0x0001018c 0x0041018c 26  27   .data   ascii   GetEffectiveRightsFromAclW
+425 0x0001020c 0x0041020c 9   10   .data   ascii   ntdll.dll
+426 0x00010218 0x00410218 7   8    .data   ascii   shell32
+427 0x00010220 0x00410220 6   7    .data   ascii   ws2_32
+428 0x00010228 0x00410228 7   8    .data   ascii   mswsock
+429 0x00010230 0x00410230 8   9    .data   ascii   advapi32
+430 0x0001023c 0x0041023c 8   9    .data   ascii   kernel32
+431 0x00011066 0x00415066 15  32   .rsrc   utf16le VS_VERSION_INFO
+432 0x000110c2 0x004150c2 14  30   .rsrc   utf16le StringFileInfo
+433 0x000110e6 0x004150e6 8   18   .rsrc   utf16le 040904b0
+434 0x000110fe 0x004150fe 8   18   .rsrc   utf16le Comments
+435 0x00011110 0x00415110 523 1048 .rsrc   utf16le Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at\r\n\r\nhttp://www.apache.org/licenses/LICENSE-2.0\r\n\r\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+436 0x0001152e 0x0041552e 11  24   .rsrc   utf16le CompanyName
+437 0x00011548 0x00415548 26  54   .rsrc   utf16le Apache Software Foundation
+438 0x00011586 0x00415586 15  32   .rsrc   utf16le FileDescription
+439 0x000115a8 0x004155a8 32  66   .rsrc   utf16le ApacheBench command line utility
+440 0x000115f2 0x004155f2 11  24   .rsrc   utf16le FileVersion
+441 0x0001160c 0x0041560c 6   14   .rsrc   utf16le 2.2.14
+442 0x00011622 0x00415622 12  26   .rsrc   utf16le InternalName
+443 0x0001163c 0x0041563c 6   14   .rsrc   utf16le ab.exe
+444 0x00011652 0x00415652 14  30   .rsrc   utf16le LegalCopyright
+445 0x00011670 0x00415670 46  94   .rsrc   utf16le Copyright 2009 The Apache Software Foundation.
+446 0x000116d6 0x004156d6 16  34   .rsrc   utf16le OriginalFilename
+447 0x000116f8 0x004156f8 6   14   .rsrc   utf16le ab.exe
+448 0x0001170e 0x0041570e 11  24   .rsrc   utf16le ProductName
+449 0x00011728 0x00415728 18  38   .rsrc   utf16le Apache HTTP Server
+450 0x00011756 0x00415756 14  30   .rsrc   utf16le ProductVersion
+451 0x00011774 0x00415774 6   14   .rsrc   utf16le 2.2.14
+452 0x0001178c 0x0041578c 10  22   .rsrc   utf16le arFileInfo
+453 0x000117aa 0x004157aa 11  24   .rsrc   utf16le Translation
+
+2024-08-14 13:50:29,467 - INFO - Functions found: 0x004013eb   45    378 entry0
+0x00405ac0    7    112 fcn.00405ac0
+0x00401750    1     40 fcn.00401750
+0x00404720    1      3 fcn.00404720
+0x0040b3b0    5     80 fcn.0040b3b0
+0x00404310    7    268 fcn.00404310
+0x00405850   13    112 fcn.00405850
+0x00404a65    4     83 fcn.00404a65
+0x0040582c    1     20 fcn.0040582c
+0x00404110    1    119 fcn.00404110
+0x00401e40   21    203 fcn.00401e40
+0x004058c1    3     32 fcn.004058c1
+0x00401fe0   14    154 fcn.00401fe0
+0x0040207a   13    195 fcn.0040207a
+0x0040213d  308   1812 fcn.0040213d
+0x0040b590   19    361 fcn.0040b590
+0x0040b56f    1      7 fcn.0040b56f
+0x0040ae90   16    150 fcn.0040ae90
+0x0040b596    1      4 fcn.0040b596
+0x0040bf51    4    189 fcn.0040bf51
+0x00409690    1      3 fcn.00409690
+0x0040a280    1      7 fcn.0040a280
+0x0040bcb0    1      8 fcn.0040bcb0
+0x00405840    1      4 fcn.00405840
+0x00406200   23    250 fcn.00406200
+0x00403860    1     28 fcn.00403860
+0x00403a90   11    101 fcn.00403a90
+0x004086cb    1     21 fcn.004086cb
+0x00406a00    1     57 fcn.00406a00
+0x00409278   21    150 fcn.00409278
+0x0040a9a0    5     73 fcn.0040a9a0
+0x00404a19    6     51 fcn.00404a19
+0x00404e00    3     74 fcn.00404e00
+0x004058a9    3     27 fcn.004058a9
+0x004086e0    9    122 fcn.004086e0
+0x0040a0e0   10    229 fcn.0040a0e0
+0x00409820    7     57 fcn.00409820
+0x00405640   14    105 fcn.00405640
+0x00404870    7     66 fcn.00404870
+0x00406bc0    1    121 fcn.00406bc0
+0x00404920    1     16 fcn.00404920
+0x0040a2d0   11     92 fcn.0040a2d0
+0x0040a340    2     31 fcn.0040a340
+0x00405612    3     46 fcn.00405612
+0x004056f0   21    176 fcn.004056f0
+0x0040a4b0    7     87 fcn.0040a4b0
+0x0040a3d0    9     91 fcn.0040a3d0
+0x004048b0   16    176 fcn.004048b0
+0x0040a32a    3     36 fcn.0040a32a
+0x00405340   32    535 fcn.00405340
+0x004051c5   19    211 fcn.004051c5
+0x00404a60    1     15 fcn.00404a60
+0x00408680    4     48 fcn.00408680
+0x00408689    1      5 fcn.00408689
+0x00404b08   16    375 int.00404b08
+0x00405f20   12    139 fcn.00405f20
+0x0040a903    2     48 fcn.0040a903
+0x004055f0    4     36 fcn.004055f0
+0x0040a430    3     51 fcn.0040a430
+0x00404a20    1      5 fcn.00404a20
+0x0040b840    3     47 fcn.0040b840
+0x0040b960    1      2 fcn.0040b960
+0x00406d10    3     70 fcn.00406d10
+0x00406a40    1     78 fcn.00406a40
+0x0040b750   10    111 fcn.0040b750
+0x004080f0    5     79 fcn.004080f0
+0x004080e0    1      2 fcn.004080e0
+0x00408628    3     23 fcn.00408628
+0x0040865e    1      2 fcn.0040865e
+0x00407d20    1     57 fcn.00407d20
+0x004077df  120   7451 fcn.004077df
+0x00408220   21    312 fcn.00408220
+0x00408660    1     18 fcn.00408660
+0x0040b580    1      6 sub.MSVCRT.dll__ftol
+0x00406cf0    1     25 fcn.00406cf0
+0x00406d90   17    279 fcn.00406d90
+0x00407f62    3     64 fcn.00407f62
+0x0040b900    2     21 fcn.0040b900
+0x004085c5   15    166 fcn.004085c5
+0x00408780    3     27 fcn.00408780
+0x00405c80    3     79 fcn.00405c80
+0x00407320    1     38 fcn.00407320
+0x00404a5f    1      1 fcn.00404a5f
+0x00405600    1      4 fcn.00405600
+0x0040b642    1     36 fcn.0040b642
+0x00409ed0    7     87 fcn.00409ed0
+0x0040a940    1     29 fcn.0040a940
+0x0040b870    8    102 fcn.0040b870
+0x004098a0    1     19 fcn.004098a0
+0x0040b7f8    1     11 fcn.0040b7f8
+0x0040add0    1     30 fcn.0040add0
+0x0040b080    4     82 fcn.0040b080
+0x0040b12a    1     12 fcn.0040b12a
+0x0040b92c    1      6 fcn.0040b92c
+0x0040b94e    1      6 fcn.0040b94e
+0x0040be08    2    168 fcn.0040be08
+
+2024-08-14 13:50:30,193 - INFO - File info: {
+    "core": {
+        "type": "EXEC (Executable file)",
+        "file": "hello.exe",
+        "fd": 3,
+        "size": 73802,
+        "humansz": "72.1K",
+        "iorw": false,
+        "mode": "r-x",
+        "block": 256,
+        "format": "pe"
+    },
+    "bin": {
+        "arch": "x86",
+        "baddr": 4194304,
+        "binsz": 73802,
+        "bintype": "pe",
+        "bits": 32,
+        "canary": false,
+        "injprot": false,
+        "retguard": false,
+        "class": "PE32",
+        "cmp.csum": "0x000202fd",
+        "compiled": "Sat Sep 19 11:13:18 2009",
+        "compiler": "",
+        "crypto": false,
+        "dbg_file": "C:\\local0\\asf\\release\\build-2.2.14\\support\\Release\\ab.pdb",
+        "endian": "little",
+        "havecode": true,
+        "hdr.csum": "0x00000000",
+        "guid": "4AC180361",
+        "intrp": "",
+        "laddr": 0,
+        "lang": "c",
+        "linenum": true,
+        "lsyms": true,
+        "machine": "i386",
+        "nx": false,
+        "os": "windows",
+        "overlay": true,
+        "cc": "cdecl",
+        "pic": false,
+        "relocs": true,
+        "rpath": "",
+        "signed": false,
+        "sanitize": false,
+        "static": false,
+        "stripped": false,
+        "subsys": "Windows GUI",
+        "va": true,
+        "checksums": {}
+    }
+}
+2024-08-14 13:50:43,348 - ERROR - An error occurred: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/files/5cebd7a1c4ef24cb78dad778694e19937e1b53f1ad405640fecd0eae6bc67599 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7abbd1bf90>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2024-08-14 13:50:43,348 - ERROR - Unable to retrieve threat score from Threat Intelligence Service.
+2024-08-14 13:51:01,696 - ERROR - An error occurred: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/files/5cebd7a1c4ef24cb78dad778694e19937e1b53f1ad405640fecd0eae6bc67599 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7abbd2c610>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2024-08-14 13:51:01,696 - ERROR - Unable to retrieve active summary from Threat Intelligence Service.
+2024-08-14 13:52:40,064 - ERROR - An error occurred: HTTPSConnectionPool(host='www.virustotal.com', port=443): Max retries exceeded with url: /api/v3/files/5cebd7a1c4ef24cb78dad778694e19937e1b53f1ad405640fecd0eae6bc67599 (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7abbd2ced0>: Failed to establish a new connection: [Errno -3] Temporary failure in name resolution'))
+2024-08-14 13:52:40,064 - ERROR - Unable to retrieve history from Threat Intelligence Service.
