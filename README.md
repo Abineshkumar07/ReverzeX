@@ -1,7 +1,7 @@
 
 ---
 
-# ReverZeX CLI Tool
+# ReverzeX CLI Tool
 
 ReverzeX is a powerful malware reverse engineering tool designed for analyzing potentially malicious files and extracting valuable information. It offers a suite of functionalities including file disassembly, threat intelligence integration, network traffic analysis, and comprehensive report generation. Whether you're a security researcher, a malware analyst, or someone interested in cybersecurity, ReverzeX provides the tools you need to dive deep into file analysis.
 
