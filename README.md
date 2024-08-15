@@ -3,6 +3,9 @@
 
 # ReverzeX CLI Tool
 
+
+# ReverzeX - Malware Reverse Engineering Tool
+
 ReverzeX is a powerful malware reverse engineering tool designed for analyzing potentially malicious files and extracting valuable information. It offers a suite of functionalities including file disassembly, threat intelligence integration, network traffic analysis, and comprehensive report generation. Whether you're a security researcher, a malware analyst, or someone interested in cybersecurity, ReverzeX provides the tools you need to dive deep into file analysis.
 
 ## Features
@@ -31,8 +34,8 @@ Before you begin, ensure you have the following installed:
    Start by cloning the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/reverzex.git
-   cd reverzex
+   git clone [https://github.com/yourusername/reverzex.git](https://github.com/Abineshkumar07/ReverzeX.git)
+   cd ReverzeX
    ```
 
 2. **Install Dependencies**
@@ -83,6 +86,14 @@ Upon running, you will be presented with a menu of available commands to perform
    - **q**: Quit - Exit the tool.
 
 Here is a detailed breakdown of the available commands:
+
+
+Once the tool is running, you will be prompted to enter the file path of the malware file you wish to analyze:
+
+```
+Enter file path: sample_malware
+```
+
 
 1. **Analyze File**: Disassemble and analyze the opened file. This includes disassembling the binary and analyzing its contents to identify instructions, functions, and other key elements.
 
@@ -226,3 +237,5 @@ For major changes, please open an issue first to discuss what you would like to 
 For any questions, issues, or inquiries, please feel free to contact me at [sabineshkumar07@gmail.com](mailto:sabineshkumar07@gmail.com).
 
 ---
+
+
