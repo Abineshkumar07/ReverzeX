@@ -72,9 +72,9 @@ class ReverzeX:
                 elif cmd == '9':
                     self.threat_categories()
                 elif cmd == '10':
-                    self.auto_network_captute()
-                elif cmd == '11':
                     self.network_capture()
+                elif cmd == '11':
+                    self.auto_network_captute()
                 elif cmd == '12':
                     self.generate_pdf_report()
                 elif cmd == 'h':
