@@ -34,7 +34,7 @@ Before you begin, ensure you have the following installed:
    Start by cloning the repository to your local machine:
 
    ```bash
-   git clone [https://github.com/yourusername/reverzex.git](https://github.com/Abineshkumar07/ReverzeX.git)
+   git clone https://github.com/Abineshkumar07/ReverzeX.git
    cd ReverzeX
    ```
 
