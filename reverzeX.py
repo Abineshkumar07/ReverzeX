@@ -74,7 +74,7 @@ class ReverzeX:
                 elif cmd == '10':
                     self.network_capture()
                 elif cmd == '11':
-                    self.auto_network_captute()
+                    self.auto_network_capture()
                 elif cmd == '12':
                     self.generate_pdf_report()
                 elif cmd == 'h':
